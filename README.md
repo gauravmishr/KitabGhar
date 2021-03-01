@@ -76,7 +76,6 @@ $ ng serve
 - Authenticated users
     - Buy books
     - Rate books
-    - Comment books
     - View user profiles
     - View his own purchases history
 
