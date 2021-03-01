@@ -1,8 +1,8 @@
-# Kitab Ghar SPA (Angular 6)
+# Pustakghar SPA (Angular 6)
 
 ### Description
 
-Book Store is a simple single page application (SPA) that lets you buy all the books that are available in the store. You can also see all of your purchased books history.
+Pustakghar is a simple single page application (SPA) that lets you buy all the books that are available in the store. You can also see all of your purchased books history.
 Find books based on Title, genre, publisher, ISBN.
 
 ### Tech
@@ -87,6 +87,4 @@ $ ng serve
 
 
 ### License
-----
-
 MIT
